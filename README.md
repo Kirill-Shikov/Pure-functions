@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/skp7mj55tm9v9keb/branch/main?svg=true)](https://ci.appveyor.com/project/Kirill-Shikov/pure-functions/branch/main)

@@ -1,0 +1,31 @@
+{
+  "name": "pure-functions",
+  "version": "1.0.0",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/skp7mj55tm9v9keb/branch/main?svg=true)](https://ci.appveyor.com/project/Kirill-Shikov/pure-functions/branch/main)",
+  "homepage": "https://github.com/Kirill-Shikov/Pure-functions#readme",
+  "bugs": {
+    "url": "https://github.com/Kirill-Shikov/Pure-functions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirill-Shikov/Pure-functions.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src/**/*.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "eslint": "^10.0.2",
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "core-js": "^3.48.0"
+  }
+}
